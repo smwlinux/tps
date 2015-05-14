@@ -1,0 +1,5 @@
+Sub startTPS()
+Load frmTPS
+frmTPS.Show
+
+End Sub
